@@ -19,5 +19,7 @@ git init
 # following instructions are from upstream repo
 npm install -g postcss-cli autoprefixer
 npm install
+
+hugo serve
 ```
 
